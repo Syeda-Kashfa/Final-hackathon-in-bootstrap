@@ -1,65 +1,77 @@
-.Btn{
-   background:  #7C4EE4;
-}
-.blg a{
-    color:  #7C4EE4;
-    
-
-}
-.bgclr{
+.Btn {
     background: #7C4EE4;
 }
-.bgcl{
+
+.blg  {
+    color: #7C4EE4;
+
+
+}
+
+.bgclr {
+    background: #7C4EE4;
+}
+
+.bgcl {
     background: #ffff;
     position: absolute;
     top: 180px;
     right: 20px;
     height: 300px;
     border-radius: 10px;
-    
-}
-.postn{
-    position: relative;
-   
 
 }
-.btnn{
+
+.postn {
+    position: relative;
+
+
+}
+
+.btnn {
     border-color: #7C4EE4;
 
 }
-.fnt{
+
+.fnt {
     font-size: 14px;
 }
-.sml{
+
+.sml {
     color: #7C4EE4;
     border-bottom: 2px solid #7C4EE4;
-  font-weight: bold;
-  font-size: 18px;
-    
+    font-weight: bold;
+    font-size: 18px;
+
 }
-.crd{
+
+.crd {
     border: none;
 }
-.ftr
 
-
-
-@media screen and (max-width:600px){
-    /* .bgcl{
-    background: #ffff;
-    position: absolute;
-    top: 180px;
-    right: 20px;
-    height: 300px;
-    border-radius: 10px;
-    display: block;
-    
+.ftr {
+    border-top: 2px solid;
 }
-.postn{
-    position: relative;
-    height: 400px;
-    display: block;
 
-} */
-    
+
+
+@media screen and (max-width:600px) {
+    .bgcl {
+        background: #ffff;
+        position: absolute;
+        top: 180px;
+        right: 20px;
+        height: 300px;
+        border-radius: 10px;
+       
+
+    }
+
+    .postn {
+        position: relative;
+        height: 520px;
+
+
+    }
+
 }
